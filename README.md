@@ -3,7 +3,7 @@
 > Guidewire DEVTrails 2026 | Phase 1 Submission
 
 ---
-CHECK OUT THE PROTOPE! REPO: <a href = "https://github.com/ManasDasri/GigSheild_demo">GigShield</a>
+Check out the Prototype! REPO: <a href = "https://github.com/ManasDasri/GigSheild_demo">GigShield</a>
 ## Problem Statement
 
 India's platform-based delivery partners (Zomato, Swiggy, Zepto, Blinkit, Amazon etc.) are the backbone of the digital economy. External disruptions — extreme weather, floods, severe pollution, curfews, local strikes — can wipe out 20-30% of a worker's monthly income. These workers have no safety net. When disruptions hit, they bear the full loss alone.
